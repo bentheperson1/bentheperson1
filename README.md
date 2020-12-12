@@ -17,3 +17,6 @@ I have a website which you can find here: http://fifthedgestudios.com/ and I hav
 
 I currently have 2 games on Steam: Hooks and Shotguns & Pulse Jumper.
 
+You can find all my socials below:
+  -GameJolt: https://gamejolt.com/@Benathen
+  -Twitter: https://twitter.com/BenathenHolland
