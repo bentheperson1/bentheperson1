@@ -11,7 +11,7 @@ My skills include:
   -Godot Engine
   -Git
 
-I'm currently 14 and have been programming since I was 11.
+I'm currently 15 and have been programming since I was 11.
 
 I have a website which you can find here: http://fifthedgestudios.com/ and I have an indie game "studio" called Fifth Edge Studios.
 
