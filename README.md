@@ -23,7 +23,6 @@ What I do -
 Additionally -
 
 * 🌎 I am a US Citizen currently living in Arlington, TX.
-* 🗺️ Remote and 1099/C2C only
 * 🤗 Send me an email; let's chat! - ben@fifthedgestudios.com
 
 ## → Other Links
