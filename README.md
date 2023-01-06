@@ -22,7 +22,7 @@ What I do -
 
 Additionally -
 
-* 🌎 I am a US Citizen currently living in Arlington, TX.
+* 🌎 I am a US Citizen currently living in North Texas.
 * 🤗 Send me an email; let's chat! - ben@fifthedgestudios.com
 
 ## → Other Links
