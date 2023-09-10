@@ -1,6 +1,6 @@
 <h1> Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 
-<b>I'm a Game Dev, Pixel Artist, and Student from North Texas.</b> 
+<b>I'm a Game Developer, Programmer, and Student from North Texas.</b> 
 
 I love making games, pixel art, and collaborating with others to make something great.
 
@@ -11,14 +11,14 @@ I love making games, pixel art, and collaborating with others to make something 
 
 What I do -
 
-* ⌨️ Gameplay Programming - create the gameplay aspects of your game
-* 🗻 Level Design - plan out and design levels/stages
-* 💎 Environment Art - create tilesets and art for the gameplay environment
-* 🎨 Character Art - create art for your characters
-* 🐍 Backup To Github - maintain a code repo for version control and offsite backup
-* ⚡ Collaborate - work with others to make something amazing
-* ✨ Solve Problems - find solutions to problems I may encounter
-* 🗣️ Be Active - make sure everything is running smoothly
+* ⌨️ Gameplay Programming
+* 🗻 Level Design
+* 💎 2D Environment Art
+* 🎨 2D Character Art
+* 🐍 Backup To Github
+* ⚡ Collaborate
+* ✨ Solve Problems
+* 🗣️ Be Active
 
 Additionally -
 
