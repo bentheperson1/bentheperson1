@@ -2,30 +2,13 @@
 
 <b>I'm a Game Developer, Programmer, and Student from North Texas.</b> 
 
-I love making games, pixel art, and collaborating with others to make something great.
+I love programming, making games, pixel art, and collaborating with others to create something great.
 
 ## → My Skillset
 ![GameMaker](https://img.shields.io/badge/-GameMaker-green&?style=for-the-badge)
-![Pixel Art](https://img.shields.io/badge/-Pixel%20Art-informational?style=for-the-badge)
-![Git + Github](https://img.shields.io/badge/-Git%20%2B%20Github-orange?style=for-the-badge)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)  ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 
-What I do -
-
-* ⌨️ Gameplay Programming
-* 🗻 Level Design
-* 💎 2D Environment Art
-* 🎨 2D Character Art
-* 🐍 Backup To Github
-* ⚡ Collaborate
-* ✨ Solve Problems
-* 🗣️ Be Active
-
-Additionally -
-
-* 🌎 I am a US Citizen currently living in North Texas.
-* 🤗 Send me an email; let's chat! - ben@fifthedgestudios.com
-
-## → Other Links
-[![Website](https://img.shields.io/badge/%F0%9F%91%94-Itch.io-blue)](https://fifthedgestudios.itch.io)
+## → Links
+![Portfolio](https://benholland.xyz/)
 
 ![](https://komarev.com/ghpvc/?username=bentheperson1&color=blue)
